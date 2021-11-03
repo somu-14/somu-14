@@ -2,6 +2,10 @@
 #include<conio.h>
 int main()
 {
-printf("hello world");
+
+int a=10,b=20;
+c=a+b;
+printf("%d",c);
+printf("this is my first c program in github");
 return 0;
 }
